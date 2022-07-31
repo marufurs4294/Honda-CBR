@@ -7,12 +7,22 @@
     padding: 3px 10px;
     transition: .5s;
 }
+.text-tomato{
+    color: tomato;
+}
 p{
     font-size: 18px;
 }
 /* Custom Css */
+
+/* top banner */
 .top-banner{
     background-color: #82589F;
     height: auto;
     
+}
+/* Featured Bike */
+.section-title h1{
+    font-size: 45px;
+    letter-spacing: 6px;
 }
