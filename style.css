@@ -1,0 +1,12 @@
+/* Common Css */
+.bg-tomato{
+    background-color: tomato;
+    color: aliceblue;
+    font-size:20px ;
+    font-weight: bold;
+    padding: 3px 10px;
+    transition: .5s;
+}
+p{
+    font-size: 18px;
+}
