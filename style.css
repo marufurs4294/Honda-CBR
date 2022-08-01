@@ -1,3 +1,6 @@
+body{
+    overflow-x: hidden;
+}
 /* Common Css */
 .bg-tomato{
     background-color: tomato;
