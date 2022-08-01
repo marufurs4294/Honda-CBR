@@ -7,11 +7,18 @@
     padding: 3px 10px;
     transition: .5s;
 }
+.tomato{
+    background-color: tomato;
+}
 .text-tomato{
     color: tomato;
 }
 p{
     font-size: 18px;
+}
+a{
+    text-decoration: none;
+    font-weight: 500;
 }
 /* Custom Css */
 
